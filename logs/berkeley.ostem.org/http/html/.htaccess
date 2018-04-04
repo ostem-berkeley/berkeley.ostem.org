@@ -1,4 +1,0 @@
-AuthType Basic
-AuthUserFile /home/_domain_logs/ostem_berkeley/berkeley.ostem.org/http.21428832/html/.htpasswd
-AuthName "Statistics Area"
-require valid-user
